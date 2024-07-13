@@ -1,5 +1,8 @@
 # rpi-zero-2w-setup
-Setup for the transmitter pi
+Setup for the transmitter pi.
+Connect the input signal wire to GPIO pin 17 on the Raspberry Pi Zero 2w
+![image](https://github.com/user-attachments/assets/0f40c7d2-638b-4ae8-a293-7dcc8d17ed5c)
+
 
 1. Create a file in the home directory called gnuradio
 
