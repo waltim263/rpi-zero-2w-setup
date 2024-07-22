@@ -1,3 +1,8 @@
+Initial Setup: 
+Follow Gnu Radio's documentation. 
+https://wiki.gnuradio.org/index.php/InstallingGRFromSource_on_Raspberry_Pi 
+
+
 # rpi-zero-2w-setup
 Setup for the transmitter pi.
 Connect the input signal wire to GPIO pin 17 on the Raspberry Pi Zero 2w
