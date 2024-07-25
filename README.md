@@ -2,6 +2,11 @@ Initial Setup:
 Follow Gnu Radio's documentation. 
 https://wiki.gnuradio.org/index.php/InstallingGRFromSource_on_Raspberry_Pi 
 
+Wifi Setup:
+sudo wpa_cli -i wlan0
+ADD_NETWORK
+
+
 
 # rpi-zero-2w-setup
 Setup for the transmitter pi.
